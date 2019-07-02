@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>Empire Burlesque</TITLE>
+    <ARTIST>Bob Dylan</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1985</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Still got the blues</TITLE>
+    <ARTIST>Gary Moore</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Virgin records</COMPANY>
+    <PRICE>10.20</PRICE>
+    <YEAR>1990</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Maggie May</TITLE>
+    <ARTIST>Rod Stewart</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Pickwick</COMPANY>
+    <PRICE>8.50</PRICE>
+    <YEAR>1990</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Romanza</TITLE>
+    <ARTIST>Andrea Bocelli</ARTIST>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <PRICE>10.80</PRICE>
+    <YEAR>1996</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Tupelo Honey</TITLE>
+    <ARTIST>Van Morrison</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <PRICE>8.20</PRICE>
+    <YEAR>1971</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Unchain my heart</TITLE>
+    <ARTIST>Joe Cocker</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>EMI</COMPANY>
+    <PRICE>8.20</PRICE>
+    <YEAR>1987</YEAR>
+  </CD>
+</CATALOG>
