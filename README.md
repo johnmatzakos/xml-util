@@ -9,3 +9,7 @@ XMLUtil provides the following:
 - Converts an XML file into a String
 - Extracts a substring of the converted XML using a regular expression
 - Compares two XML files and see the differences if they occur
+
+
+
+Note: The example xml file was taken from www.w3schools.com
