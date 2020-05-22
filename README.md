@@ -10,6 +10,10 @@ XMLUtil provides the following:
 - Extracts a substring of the converted XML using a regular expression
 - Compares two XML files and see the differences if they occur
 
-
+Technologies used:
+- Java 8 
+- JDOM2
+- XMLUnit
+- Apache Maven.
 
 Note: The example xml file was taken from www.w3schools.com
